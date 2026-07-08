@@ -1,0 +1,109 @@
+# פאר הסת"ם והיודאיקה — Generative Engine Optimization Map
+
+> A Sofer STaM (Jewish ritual scribe) selling handwritten religious items of various quality levels and certifications. The store offers mezuzot (multiple kashrut levels), kosher megillahs including mehadrin grade, parshiyot, mezuzah cases, tefillin, Megillat Esther, and supplies for other scribes. The business serves the observant Jewish community with a focus on halachic quality and authenticity.
+
+---
+
+## Pages
+
+### בית
+https://-bb4c9728.zappy5.app
+חנות סת&quot;ם מובילה למגילת אסתר כשרה, פרשיות מהודרות ומזוזות למהדרין. איכות הלכתית ללא פשרות מבית סופר מוסמך. היכנסו עכשיו להזמין!
+
+### כשרות והסמכה
+https://-bb4c9728.zappy5.app/kashrut-certification
+גלו את תעודות ההסמכה שמאחורי מגילת אסתר ופרשיות מהודרות. שקיפות הלכתית מלאה על כל פריט סת&quot;ם שאתם רוכשים. לחצו לפרטים המלאים!
+
+### הזמנות מיוחדות
+https://-bb4c9728.zappy5.app/custom-orders
+מחפשים פרשיות או מגילת אסתר כשרה לפורים בהזמנה מיוחדת? אנו יוצרים עבורכם פריטי קודש בעבודת יד לפי דרישותיכם המדויקות. צרו קשר עוד היום!
+
+### לסופרים
+https://-bb4c9728.zappy5.app/for-scribes
+ציוד מקצועי לסופרי סת&quot;ם: קלף, דיו וקולמוסים לכתיבת מגילת אסתר, פרשיות ומזוזות. איכות מעולה במחירים הוגנים. הצטיידו עכשיו בסדנת הכתיבה שלכם!
+
+### צור קשר
+https://-bb4c9728.zappy5.app/contact
+יש שאלה על כשרות פרשיות או מגילת אסתר לפורים? צוות המומחים שלנו זמין לייעץ לכם בכל עניין הלכתי. השאירו פנייה ונחזור במהרה!
+
+### Products
+https://-bb4c9728.zappy5.app/products
+המוצרים שלנו - פאר הסת"ם והיודאיקה
+
+### Cart
+https://-bb4c9728.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-bb4c9728.zappy5.app/checkout
+תשלום
+
+### Login
+https://-bb4c9728.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-bb4c9728.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-bb4c9728.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-bb4c9728.zappy5.app/product/:slug
+פרטי המוצר - פאר הסת"ם והיודאיקה
+
+### Category
+https://-bb4c9728.zappy5.app/category/:slug
+מוצרים - פאר הסת"ם והיודאיקה
+
+### תודה - פאר הסת״ם והיודאיקה
+https://-bb4c9728.zappy5.app/thank-you
+פאר הסת"ם והיודאיקה - תודה - פאר הסת״ם והיודאיקה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-bb4c9728.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-bb4c9728.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-bb4c9728.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פאר הסת"ם והיודאיקה
+A Sofer STaM (Jewish ritual scribe) selling handwritten religious items of various quality levels and certifications. The store offers mezuzot (multiple kashrut levels), kosher megillahs including mehadrin grade, parshiyot, mezuzah cases, tefillin, Megillat Esther, and supplies for other scribes. The business serves the observant Jewish community with a focus on halachic quality and authenticity.
+
+## Target Audience
+- משפחות יהודיות אורתודוקסיות
+- מנהיגי קהילות בתי כנסת
+- מחנכים יהודיים
+- כול יהודי
+
+## Industry
+Judaica & Religious Scribal Arts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-bb4c9728.zappy5.app/sitemap.xml
+- Robots: https://-bb4c9728.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-bb4c9728.zappy5.app/llms-full.txt
+- Products (JSON): https://-bb4c9728.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-bb4c9728.zappy5.app/product-feed.xml
