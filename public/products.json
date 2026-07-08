@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T19:18:24.290Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-07-08T19:18:45.378Z",
+  "base_url": "https://paar-hastam-vehayudaika.zappy5.app",
   "currency": "ILS",
   "count": 1,
   "products": [
@@ -19,14 +19,14 @@
       "sale_price": 4699,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783537526210-2nq7b.webp",
-        "https://example.com/assets/product-ai-fit-1783537705655-xrp6b9.webp",
-        "https://example.com/assets/product-ai-fit-1783537624645-70gc848.webp",
-        "https://example.com/assets/product-ai-fit-1783537664151-aikv6v.webp"
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783537526210-2nq7b.webp",
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-ai-fit-1783537705655-xrp6b9.webp",
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-ai-fit-1783537624645-70gc848.webp",
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-ai-fit-1783537664151-aikv6v.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/mgylt-astr-mhvdrt-yxp41t",
+      "url": "https://paar-hastam-vehayudaika.zappy5.app/product/mgylt-astr-mhvdrt-yxp41t",
       "categories": [],
       "updated_at": "2026-07-08T19:13:07.181Z"
     }

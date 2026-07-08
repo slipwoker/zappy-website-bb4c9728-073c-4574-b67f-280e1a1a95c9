@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://example.com
+https://paar-hastam-vehayudaika.zappy5.app
 חנות סת&quot;ם מובילה למגילת אסתר כשרה, פרשיות מהודרות ומזוזות למהדרין. איכות הלכתית ללא פשרות מבית סופר מוסמך. היכנסו עכשיו להזמין!
 
 ### כשרות והסמכה
-https://example.com/kashrut-certification
+https://paar-hastam-vehayudaika.zappy5.app/kashrut-certification
 גלו את תעודות ההסמכה שמאחורי מגילת אסתר ופרשיות מהודרות. שקיפות הלכתית מלאה על כל פריט סת&quot;ם שאתם רוכשים. לחצו לפרטים המלאים!
 
 ### הזמנות מיוחדות
-https://example.com/custom-orders
+https://paar-hastam-vehayudaika.zappy5.app/custom-orders
 מחפשים פרשיות או מגילת אסתר כשרה לפורים בהזמנה מיוחדת? אנו יוצרים עבורכם פריטי קודש בעבודת יד לפי דרישותיכם המדויקות. צרו קשר עוד היום!
 
 ### לסופרים
-https://example.com/for-scribes
+https://paar-hastam-vehayudaika.zappy5.app/for-scribes
 ציוד מקצועי לסופרי סת&quot;ם: קלף, דיו וקולמוסים לכתיבת מגילת אסתר, פרשיות ומזוזות. איכות מעולה במחירים הוגנים. הצטיידו עכשיו בסדנת הכתיבה שלכם!
 
 ### צור קשר
-https://example.com/contact
+https://paar-hastam-vehayudaika.zappy5.app/contact
 יש שאלה על כשרות פרשיות או מגילת אסתר לפורים? צוות המומחים שלנו זמין לייעץ לכם בכל עניין הלכתי. השאירו פנייה ונחזור במהרה!
 
 ### Products
-https://example.com/products
+https://paar-hastam-vehayudaika.zappy5.app/products
 המוצרים שלנו - פאר הסת"ם והיודאיקה
 
 ### Cart
-https://example.com/cart
+https://paar-hastam-vehayudaika.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://paar-hastam-vehayudaika.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://paar-hastam-vehayudaika.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://paar-hastam-vehayudaika.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://paar-hastam-vehayudaika.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://paar-hastam-vehayudaika.zappy5.app/product/:slug
 פרטי המוצר - פאר הסת"ם והיודאיקה
 
 ### Category
-https://example.com/category/:slug
+https://paar-hastam-vehayudaika.zappy5.app/category/:slug
 מוצרים - פאר הסת"ם והיודאיקה
 
 ### תודה - פאר הסת״ם והיודאיקה
-https://example.com/thank-you
+https://paar-hastam-vehayudaika.zappy5.app/thank-you
 פאר הסת"ם והיודאיקה - תודה - פאר הסת״ם והיודאיקה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://paar-hastam-vehayudaika.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://paar-hastam-vehayudaika.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://paar-hastam-vehayudaika.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -83,12 +83,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### מגילת אסתר מהודרת
-https://example.com/product/mgylt-astr-mhvdrt-yxp41t
+https://paar-hastam-vehayudaika.zappy5.app/product/mgylt-astr-mhvdrt-yxp41t
 - Price: 4699.00 ILS (sale, was 5200.00 ILS)
 - Availability: In stock
 - Brand: פאר הסתם והיודאיקה
 - Description: מגילת אסתר 21 שורות ספרדית מהודרת א'
-- Image: https://example.com/assets/product-1783537526210-2nq7b.webp
+- Image: https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783537526210-2nq7b.webp
 
 ---
 
@@ -110,8 +110,8 @@ Judaica & Religious Scribal Arts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://paar-hastam-vehayudaika.zappy5.app/sitemap.xml
+- Robots: https://paar-hastam-vehayudaika.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://paar-hastam-vehayudaika.zappy5.app/llms-full.txt
+- Products (JSON): https://paar-hastam-vehayudaika.zappy5.app/products.json
+- Products (Google Merchant RSS): https://paar-hastam-vehayudaika.zappy5.app/product-feed.xml
