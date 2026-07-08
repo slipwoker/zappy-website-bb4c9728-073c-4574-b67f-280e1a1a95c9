@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-bb4c9728.zappy5.app
+https://example.com
 חנות סת&quot;ם מובילה למגילת אסתר כשרה, פרשיות מהודרות ומזוזות למהדרין. איכות הלכתית ללא פשרות מבית סופר מוסמך. היכנסו עכשיו להזמין!
 
 ### כשרות והסמכה
-https://-bb4c9728.zappy5.app/kashrut-certification
+https://example.com/kashrut-certification
 גלו את תעודות ההסמכה שמאחורי מגילת אסתר ופרשיות מהודרות. שקיפות הלכתית מלאה על כל פריט סת&quot;ם שאתם רוכשים. לחצו לפרטים המלאים!
 
 ### הזמנות מיוחדות
-https://-bb4c9728.zappy5.app/custom-orders
+https://example.com/custom-orders
 מחפשים פרשיות או מגילת אסתר כשרה לפורים בהזמנה מיוחדת? אנו יוצרים עבורכם פריטי קודש בעבודת יד לפי דרישותיכם המדויקות. צרו קשר עוד היום!
 
 ### לסופרים
-https://-bb4c9728.zappy5.app/for-scribes
+https://example.com/for-scribes
 ציוד מקצועי לסופרי סת&quot;ם: קלף, דיו וקולמוסים לכתיבת מגילת אסתר, פרשיות ומזוזות. איכות מעולה במחירים הוגנים. הצטיידו עכשיו בסדנת הכתיבה שלכם!
 
 ### צור קשר
-https://-bb4c9728.zappy5.app/contact
+https://example.com/contact
 יש שאלה על כשרות פרשיות או מגילת אסתר לפורים? צוות המומחים שלנו זמין לייעץ לכם בכל עניין הלכתי. השאירו פנייה ונחזור במהרה!
 
 ### Products
-https://-bb4c9728.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - פאר הסת"ם והיודאיקה
 
 ### Cart
-https://-bb4c9728.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-bb4c9728.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-bb4c9728.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-bb4c9728.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-bb4c9728.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-bb4c9728.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - פאר הסת"ם והיודאיקה
 
 ### Category
-https://-bb4c9728.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - פאר הסת"ם והיודאיקה
 
 ### תודה - פאר הסת״ם והיודאיקה
-https://-bb4c9728.zappy5.app/thank-you
+https://example.com/thank-you
 פאר הסת"ם והיודאיקה - תודה - פאר הסת״ם והיודאיקה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-bb4c9728.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-bb4c9728.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-bb4c9728.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Judaica & Religious Scribal Arts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-bb4c9728.zappy5.app/sitemap.xml
-- Robots: https://-bb4c9728.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-bb4c9728.zappy5.app/llms-full.txt
-- Products (JSON): https://-bb4c9728.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-bb4c9728.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
