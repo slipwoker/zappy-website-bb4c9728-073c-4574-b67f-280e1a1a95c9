@@ -1,8 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T18:59:10.587Z",
+  "generated_at": "2026-07-08T19:14:33.180Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "d3e05d49-4bc6-47e2-a255-d4abeaf1dec2",
+      "slug": "mgylt-astr-mhvdrt-yxp41t",
+      "name": "מגילת אסתר מהודרת",
+      "name_translations": {},
+      "description": "<p>​מחפשים מגילת אסתר שהיא יצירת פאר לדורות. המגילה נכתבה בחרדת קודש ובקפידה יתרה על ידי סופר סתם מוסמך וירא שמיים. המגילה נכתבה בכתב ספרדי מוהדר, תם ויפהפה ברמת גימור אומנותית גבוהה על גבי עור שליל משובח ונקי שנבחר בקפידה. הכתיבה נעשתה בדיו נהרי איכותי בעל גוון שחור עמוק המבטיח עמידות ואיכות למעלה ממאה שנה. המגילה עברה הגהה קפדנית, היא כשרה למהדרין ומציגה שילוב נדיר של הלכה צרופה, מסורת ואומנות ברמה הגבוהה ביותר.</p>",
+      "short_description": "מגילת אסתר 21 שורות ספרדית מהודרת א'",
+      "sku": null,
+      "brand": "פאר הסתם והיודאיקה",
+      "price": 4699,
+      "base_price": 5200,
+      "sale_price": 4699,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783537526210-2nq7b.webp",
+        "https://example.com/assets/product-ai-fit-1783537705655-xrp6b9.webp",
+        "https://example.com/assets/product-ai-fit-1783537624645-70gc848.webp",
+        "https://example.com/assets/product-ai-fit-1783537664151-aikv6v.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mgylt-astr-mhvdrt-yxp41t",
+      "categories": [],
+      "updated_at": "2026-07-08T19:13:07.181Z"
+    }
+  ]
 }

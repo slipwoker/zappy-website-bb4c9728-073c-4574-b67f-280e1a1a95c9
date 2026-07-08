@@ -80,7 +80,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### מגילת אסתר מהודרת
+https://example.com/product/mgylt-astr-mhvdrt-yxp41t
+- Price: 4699.00 ILS (sale, was 5200.00 ILS)
+- Availability: In stock
+- Brand: פאר הסתם והיודאיקה
+- Description: מגילת אסתר 21 שורות ספרדית מהודרת א'
+- Image: https://example.com/assets/product-1783537526210-2nq7b.webp
 
 ---
 
